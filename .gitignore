@@ -1,0 +1,3 @@
+# Excluir "copias" de los archivos 
+*.orig
+*.bck
